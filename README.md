@@ -1,2 +1,2 @@
 # tulip
-a mobile application of ZCA
+a mobile application of ZComApproach Inc.
